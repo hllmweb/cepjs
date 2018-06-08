@@ -4,7 +4,7 @@
 
 ----
 ## Instalação
-Você pode baixar o repositório aqui [Download ZIP](https://github.com/hllmweb/cep.js/archive/master.zip)
+Você pode baixar o repositório aqui [Download ZIP](https://github.com/hllmweb/cepjs/archive/master.zip)
 
 ----
 ## Como Usar
