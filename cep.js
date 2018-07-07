@@ -1,7 +1,7 @@
 /**
  * 
  * cep.js v1.0
- * @author Guilherme Modugno - https://modugno.github.io 
+
  * 
  */
 
